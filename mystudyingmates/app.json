@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "MyStudyingMates",
+    "slug": "MyStudyingMates",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "jsEngine": "jsc",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.myapp.mystudyingmates"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "sdkVersion": "49.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "b1242b23-8ef8-46fb-b052-fcc04d8a2009"
+      }
+    }
+  },
+  "name": "mystudyingmates"
+}

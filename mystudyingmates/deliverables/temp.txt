@@ -1,0 +1,4 @@
+Add
+* android app as installable .apk file
+* documentation as pdf
+* pitch video as mp4
